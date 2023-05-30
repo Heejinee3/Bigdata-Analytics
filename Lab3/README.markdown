@@ -29,9 +29,7 @@
 Solve the following problems. In some exercises, we recommend you to use Python.
 
 1. For the matrix:
-
    ![Figure1](https://heejinee3.github.io/assets/lab/Bigdata-Analytics/Figure1.PNG)
-   
    (We recommend you to use Python, but you CANNOT use numpy.linalg.eig() function in this exercise.)
 
    1. Starting with a vector of three 1’s, use power iteration to find an approximate value of the principal eigenvector.
